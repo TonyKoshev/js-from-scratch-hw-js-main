@@ -41,4 +41,3 @@ function findCommonElements(array1, array2) {
     }
     return gluedArray
 }
-console.log(findCommonElements(array1, array2))
