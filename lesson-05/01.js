@@ -19,7 +19,7 @@ const game = {
     if(resource in game.resources) {
       game.resources[resource] += amount
     } else {
-      console.log("Invalid resourse");
+      console.log("Invalid resource");
     }
   }
 }
